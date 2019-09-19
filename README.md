@@ -1,1 +1,1 @@
-# gamerportal
+# a CMS build for Clans
