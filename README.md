@@ -60,5 +60,8 @@ When logged -> put in the user.
 Production -> bundle and minify all CSS, JS Files. Cache everything.
 Develop -> not bundle and minifiy. Cache nothing
 
-+ [ ]  **9. Next Step**
-Text text
++ [ ]  **9. Send Email Service**
+
++ [ ]  **10. Create a MediaPanel for Uploadimages**
+
+
