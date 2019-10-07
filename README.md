@@ -12,11 +12,11 @@
 
 ## The Core
 
-+ [ ]  **1. Create User Register**
++ [x]  **1. Create User Register**
 Registerform with Email, Password. 
 Set Role "Superadmin"
 
-+ [ ]  **2. Create Login**
++ [x]  **2. Create Login**
 
 + [ ]  **3. Create Adminpage (".../admin")**
 Only Admins can Access this page.
